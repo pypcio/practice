@@ -1,5 +1,6 @@
-let version = "version-2";
+let version = "version-3";
 console.log(`This is ${version}`);
+console.log("modded feature");
 p = document.getElementById("data");
 let y = new Date().getFullYear();
 let m = new Date().getMonth();

@@ -1,0 +1,2 @@
+jakis tekst wypelniajacy
+kolejny element feature'a;
