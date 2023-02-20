@@ -1,9 +1,13 @@
-let version = "version-3";
-console.log(`This is ${version}`);
-console.log("modded feature");
-p = document.getElementById("data");
-let y = new Date().getFullYear();
-let m = new Date().getMonth();
-let d = new Date().getDate();
-p.textContent = `${d}/${m + 1}/${y}`;
-console.log("added small visualisation to this file");
+var isSquare = function (n) {
+  z = Math.round(Math.sqrt(n));
+  return z * z === n ? true : false;
+};
+
+let a = -1;
+let b = 0;
+let c = 1;
+let d = 39;
+console.log(Math.sqrt(d));
+console.log(isSquare(a));
+console.log(isSquare(b));
+console.log(isSquare(d));
