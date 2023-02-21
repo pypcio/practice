@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pypcio/practice/issues"
   },
-  "homepage": "https://github.com/pypcio/practice#readme"
+  "homepage": "https://github.com/pypcio/practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
